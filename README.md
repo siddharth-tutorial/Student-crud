@@ -1,2 +1,2 @@
 # Student-crud
-<p>student crud using map and table tag</p>
+<p>student crud using map function and table tag</p>
